@@ -1,0 +1,35 @@
+.grupo {
+  display: flex;
+  justify-content: center;
+  width: 700px;
+  height: 1150px;
+  margin-left: 30px;
+}
+.columnas {
+  flex-direction: column;
+}
+.columnas img {
+  margin: 7px 7px;
+}
+.colores {
+  width: 155px;
+  height: 220px;
+  margin: 13px 7px;
+}
+.negro {
+  background-color: rgb(20, 20, 20);
+  margin-top: 8px;
+}
+.azul {
+  background-color: rgb(51, 51, 145);
+}
+.celeste {
+  background-color: rgb(93, 136, 138);
+}
+.durazno {
+  background-color: rgb(235, 195, 135);
+}
+.violeta {
+  background-color: rgb(134, 25, 134);
+  height: 223px;
+}
