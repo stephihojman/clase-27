@@ -33,3 +33,8 @@
   background-color: rgb(134, 25, 134);
   height: 223px;
 }
+.sola {
+  position: absolute;
+  top: 200px;
+  left: 110px;
+}
