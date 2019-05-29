@@ -1,0 +1,50 @@
+.todo {
+  display: flex;
+}
+.columna {
+  flex-direction: column;
+}
+.uno {
+  width: 250px;
+  height: 250px;
+}
+.uno.arriba {
+  background-color: rgb(177, 177, 177);
+}
+.uno.abajo {
+  background-color: rgb(158, 158, 158);
+}
+.dos.arriba {
+  width: 550px;
+  height: 180px;
+  background-color: rgb(158, 158, 158);
+}
+.dos.abajo {
+  width: 550px;
+  height: 320px;
+  background-color: rgb(177, 177, 177);
+}
+.tres {
+  width: 250px;
+  height: 250px;
+}
+.tres.arriba {
+  background-color: gainsboro;
+}
+.tres.abajo {
+  background-color: rgb(153, 152, 152);
+}
+.sola {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 250px;
+  height: 300px;
+  background-color: rgb(103, 103, 143);
+  color: whitesmoke;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande";
+  font-size: 20px;
+  position: absolute;
+  left: 258px;
+  border: 10px solid gainsboro;
+}
